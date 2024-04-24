@@ -1,5 +1,5 @@
 <a href="https://zgraph.xyz/">
-    <img src="https://gist.githubusercontent.com/James-Riordan/a67bae3fd380bc23153c7a6446fa9d11/raw/3965fdde3b8e8e9b99365a87603f4b33abfb721e/ZGraph-Logo.svg" alt="ZGraph Logo" title="ZGraph" align="right" height="100" />
+    <img src="https://gist.githubusercontent.com/James-Riordan/a67bae3fd380bc23153c7a6446fa9d11/raw/3965fdde3b8e8e9b99365a87603f4b33abfb721e/ZGraph-Logo.svg" alt="ZGraph Logo" title="ZGraph" align="right" height="80" />
 </a>
 
 <!-- ![ZGraph Logo](https://gist.githubusercontent.com/James-Riordan/a67bae3fd380bc23153c7a6446fa9d11/raw/3965fdde3b8e8e9b99365a87603f4b33abfb721e/ZGraph-Logo.svg) -->
